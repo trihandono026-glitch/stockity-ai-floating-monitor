@@ -1,0 +1,1 @@
+# stockity-ai-floating-monitor
